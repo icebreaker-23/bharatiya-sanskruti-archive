@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bharatiya-sanskruti-archive/static/css/main.073c9b0a.css",
+    "main.js": "/bharatiya-sanskruti-archive/static/js/main.8dab18be.js",
+    "static/js/787.58b152fc.chunk.js": "/bharatiya-sanskruti-archive/static/js/787.58b152fc.chunk.js",
+    "index.html": "/bharatiya-sanskruti-archive/index.html",
+    "main.073c9b0a.css.map": "/bharatiya-sanskruti-archive/static/css/main.073c9b0a.css.map",
+    "main.8dab18be.js.map": "/bharatiya-sanskruti-archive/static/js/main.8dab18be.js.map",
+    "787.58b152fc.chunk.js.map": "/bharatiya-sanskruti-archive/static/js/787.58b152fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8dab18be.js"
+  ]
+}
